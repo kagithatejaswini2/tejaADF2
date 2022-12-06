@@ -4,6 +4,9 @@
 	"parameters": {
 		"factoryName": {
 			"value": "tejaadf2"
+		},
+		"AzureBlobStorage1_connectionString": {
+			"value": ""
 		}
 	}
 }
